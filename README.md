@@ -1,4 +1,4 @@
-# Jogo-do-Pong
+# Jogo do Pong
 Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais, desenvolvido pela Atari e lançado originalmente em 1972.
 
 Utilizaremos a linguagem JS para o desenvolvimento do jogo.
